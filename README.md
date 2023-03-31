@@ -23,7 +23,7 @@
 [<img align="left" alt="Git" width="26px" src="https://skillicons.dev/icons?i=lua"/>](https://www.lua.org/)
 [<img align="left" alt="GitHub" width="26px" src="https://skillicons.dev/icons?i=github"/>](https://github.com)
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com)
-[<img align="left" alt="CloudFlare" width="26px" src="https://skillicons.dev/icons?i=cloudflare"/>](https://www.cloudflare.com/))
+[<img align="left" alt="CloudFlare" width="26px" src="https://skillicons.dev/icons?i=cloudflare"/>](https://www.cloudflare.com/)
 <br>
 <br>
 
@@ -36,6 +36,6 @@
 <img align="center" alt="xeno / lextra / slitmythroat | GitHub Stats" src="https://github-readme-stats-eight-pink.vercel.app/api?username=lextra&&show_icons=true&theme=tokyonight&layout=compact"/>
 <br>
 <br>
-<img align="center" src="(https://github-readme-streak-stats.herokuapp.com?user=lextra&theme=tokyonight&type=png)](https://git.io/streak-stats)" alt="xeno / lextra / slitmythroat | GitHub Stats"/>
+<img align="center" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lextra&theme=transparent&hide_border=true&type=png)](https://git.io/streak-stats)" alt="xeno / lextra / slitmythroat | GitHub Stats"/>
 </a>
 </details>
