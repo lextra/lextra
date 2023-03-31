@@ -35,7 +35,4 @@
 <a href="https://github.com/lextra">
 <img align="center" alt="xeno / lextra / slitmythroat | GitHub Stats" src="https://github-readme-stats-eight-pink.vercel.app/api?username=lextra&&show_icons=true&theme=tokyonight&layout=compact"/>
 <br>
-<br>
-<img align="center" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lextra&theme=transparent&hide_border=true&type=png)](https://git.io/streak-stats)" alt="xeno / lextra / slitmythroat | GitHub Stats"/>
-</a>
 </details>
