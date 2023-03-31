@@ -1,24 +1,41 @@
-### [![Discord Presence] https://discord.c99.nl/widget/theme-4/907835526256689192.png
+### Hi there, I'm [xeno / lextra / slitmythroat](fraud.gay) 👋
 
-### i'm xeno, im a professional paster. i code in dat roblox lua :skull: 
+- 📫 How to reach me? [Click Me!](https://discord.com/users/907835526256689192)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=lextra&show_icons=true&line_height=27&include_all_commits=true&count_private=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ao-0&exclude_repo=RBLXHUB,MirayCDN,NHSE-VillagerDB"/>
+---
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png"></code>
-<code><img height="20" src="https://code.visualstudio.com/favicon.ico"></code>
+### Discord Status
+[<img height="80px" src="[https://discord.c99.nl/widget/theme-5/1044192328237195274.png](https://discord.c99.nl/widget/theme-4/907835526256689192.png)"/>](https://discord.com/users/907835526256689192)
 
-<!--
-**lextra/lextra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Contact me: 
 
-Here are some ideas to get you started:
+[<img align="left" alt="xeno / lextra / slitmythroat | Website" width="23px" src="https://i.imgur.com/HcY0gIm.png"/>](https://fraud.gay)
+[<img align="left" alt="xeno / lextra / slitmythroat | Discord" width="23px" src="https://i.imgur.com/CZU39q2.png"/>](https://discord.com/users/907835526256689192)
+</br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and Tools: 
+
+[<img align="left" alt="Python" width="26px" src="https://skillicons.dev/icons?i=python"/>](https://python.org)
+[<img align="left" alt="HTML" width="26px" src="https://skillicons.dev/icons?i=html"/>](https://w3.org/html)
+[<img align="left" alt="CSS" width="26px" src="https://skillicons.dev/icons?i=css"/>](https://w3schools.com/css)
+[<img align="left" alt="JavaScript" width="26px" src="https://skillicons.dev/icons?i=js"/>](https://javascript.com)
+[<img align="left" alt="Node.js" width="26px" src="https://skillicons.dev/icons?i=nodejs"/>](https://nodejs.org/en)
+[<img align="left" alt="Git" width="26px" src="https://skillicons.dev/icons?i=lua"/>](https://www.lua.org/)
+[<img align="left" alt="GitHub" width="26px" src="https://skillicons.dev/icons?i=github"/>](https://github.com)
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com)
+[<img align="left" alt="CloudFlare" width="26px" src="https://skillicons.dev/icons?i=cloudflare"/>](https://www.cloudflare.com/))
+<br>
+<br>
+
+---
+
+<details>
+  <summary>⚡ GitHub Stats</summary>
+<br>
+<a href="https://github.com/lextra">
+<img align="center" alt="mrnekrozyt | GitHub Stats" src="https://github-readme-stats-eight-pink.vercel.app/api?username=mrnekrozyt&&show_icons=true&theme=tokyonight&layout=compact"/>
+<br>
+<br>
+<img align="center" src="(https://github-readme-streak-stats.herokuapp.com?user=mrnekrozyt&theme=tokyonight&type=png)](https://git.io/streak-stats)" alt="mrnekrozyt | GitHub Stats"/>
+</a>
+</details>
