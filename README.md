@@ -5,7 +5,7 @@
 ---
 
 ### Discord Status
-[<img height="80px" src="[https://discord.c99.nl/widget/theme-5/1044192328237195274.png](https://discord.c99.nl/widget/theme-4/907835526256689192.png)"/>](https://discord.com/users/907835526256689192)
+[<img height="80px" src="(https://discord.c99.nl/widget/theme-4/907835526256689192.png)"/>](https://discord.com/users/907835526256689192)
 
 ### Contact me: 
 
