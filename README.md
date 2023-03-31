@@ -1,4 +1,4 @@
-### [![Discord Presence](https://lanyard.cnrad.dev/api/930962721158070343)](https://discord.com/users/930962721158070343)
+### [![Discord Presence] https://discord.c99.nl/widget/theme-4/907835526256689192.png
 
 ### i'm xeno, im a professional paster. i code in dat roblox lua :skull: 
 
