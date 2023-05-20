@@ -4,9 +4,6 @@
 
 ---
 
-### Discord Status
-[<img height="80px" src="[https://discord.c99.nl/widget/theme-4/1074897292223582229.png]"/>](https://discord.com/users/1074897292223582229)
-
 ### Contact me: 
 
 [<img align="left" alt="xeno / lextra / slitmythroat | Website" width="23px" src="https://i.imgur.com/HcY0gIm.png"/>](https://fraud.gay)
