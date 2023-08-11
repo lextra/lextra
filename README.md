@@ -1,1 +1,3 @@
-im being held in prison, no way of contacting me.
+instagram is @suicidesights
+discord is @ilovelarping
+telegram is @sw1p1ng
