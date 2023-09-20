@@ -1,3 +1,3 @@
 instagram is @suicidesights
-discord is @ilovelarping
-telegram is @sw1p1ng
+discord is @eththeft
+telegram is @simswapme
