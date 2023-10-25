@@ -2,4 +2,6 @@ instagram is @suicidesights
 discord is @eththeft
 telegram is @simswapme
 
-https://camo.githubusercontent.com/12d4eb5a1a5faf5f0315a3102a1513e8485a263c4d8bc3bd20103c24add6c380/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f7b6872697368696b6573686e696b616d323030307d2f636f756e742e737667
+<p align="center"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{hrishikeshnikam2000}/count.svg" /></p> 
+</br>
