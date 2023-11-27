@@ -1,5 +1,5 @@
 
-<div align="center">
+<div align="center" style="color: white;">
   <h2>https://fraud.gay</h2>
 </div>
 
