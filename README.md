@@ -1,6 +1,7 @@
 
 <div align="center" style="color: white;">
-  <h2>https://fraud.gay</h2>
+  <h2>https://bloody.bio/x</h2>
+self taught & never took classes
 </div>
 
 <p align="center"><b>Visitors Count</b></p>  
