@@ -1,6 +1,6 @@
 
 <div align="center" style="color: white;">
-  <h2>https://bloody.bio/x</h2>
+  <h2>https://xxxx.baby</h2>
 self taught reverse engineer & sw nd web dev , 7 years of experience & know 6+ programing languages
 </div>
 
